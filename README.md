@@ -13,7 +13,7 @@ A simple QR Code Generator web app built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Check out the live demo [here](https://your-website-url).
+ https://babunshil.github.io/QRgenerator/
 
 ## Installation
 
