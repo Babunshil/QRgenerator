@@ -209,8 +209,8 @@ strong {
 
 /* card style */
 .card {
-  width: 60vw;
-  height: 80vh;
+  width: 95vw;
+  height: 95vh;
   background-image: linear-gradient(163deg, #00ff75 0%, #3700ff 100%);
   border-radius: 20px;
   transition: all .3s;
@@ -218,8 +218,8 @@ strong {
  }
  
  .card2 {
-  width: 60vw;
-  height: 80vh;
+  width: 95vw;
+  height: 95vh;
   background-color: #FFFFFF;
   border-radius:20px;
   transition: all .2s;
